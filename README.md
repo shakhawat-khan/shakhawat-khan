@@ -40,7 +40,7 @@ Skills: FLUTTER / DART / DJANGO / PYTHON / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhawat-khan&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/shakhawat-khan)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakhawat-khan)  
 
