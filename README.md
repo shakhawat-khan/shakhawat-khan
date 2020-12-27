@@ -36,9 +36,7 @@ Skills: FLUTTER / DART / DJANGO / PYTHON / JS
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawat-khan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhawat-khan&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawat-khan)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhawat-khan&show_icons=true)  
 
 
 
