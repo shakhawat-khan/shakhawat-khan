@@ -5,7 +5,7 @@
 I'm Shakhawat from Bangladesh, and I do  App and database Development. I really enjoy learning languages and frameworks like Flutter , as well as work in Django. I also enjoy Backend and Dev ops in general.
 
 Skills: FLUTTER / DART / DJANGO / PYTHON / JS
-
+- 🔭 I’m currently working on mobile app with flutter
 - 🌱 I’m currently learning Dart,Flutter,Python,Django 
 - 👯 I’m looking to collaborate on App and Backend developer 
 - 📫 How to reach me: mkhan172175@bscse.uiu.ac.bd 
