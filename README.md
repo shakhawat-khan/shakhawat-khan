@@ -2,7 +2,7 @@
 #### App and Backend Developer 
 ![App and Backend Developer ](https://pbs.twimg.com/profile_banners/1299117956316626946/1598909525/1080x360)
 
-I'm Shakhawat from Bangladesh, and I do  App and database Development. I really enjoy learning languages and frameworks like Flutter , as well as work in Django. I also enjoy Backend an Dev ops in general.
+I'm Shakhawat from Bangladesh, and I do  App and database Development. I really enjoy learning languages and frameworks like Flutter , as well as work in Django. I also enjoy Backend and Dev ops in general.
 
 Skills: FLUTTER / DART / DJANGO / PYTHON / JS
 
