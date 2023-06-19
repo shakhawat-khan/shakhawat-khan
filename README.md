@@ -9,7 +9,7 @@ Skills: FLUTTER / DART / DJANGO / PYTHON / JS
 - 🔭 I’m currently working on mobile app with flutter
 - 🌱 I’m currently learning Dart,Flutter,Python,Django 
 - 👯 I’m looking to collaborate on App and Backend developer 
-- 📫 How to reach me: mkhan172175@bscse.uiu.ac.bd 
+- 📫 How to reach me: shakha0watt@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakhawat-khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sk.sristy)  
